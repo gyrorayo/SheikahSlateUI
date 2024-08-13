@@ -1,7 +1,7 @@
 id=AH-havoc
-name=Havoc lock-unlock sounds
+name=SheikahSlateUI
 version=v1
 versionCode=1
-author=aritzherrero4
-description=Replace system lock and unlock sounds with the ones integrated on HAVOC
+author=aritzherrero4, onyxcode, gyrorayo
+description=Replace systemui sounds with the ones in LOZBoW's "Sheikah Slate"
 minMagisk=1500
