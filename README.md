@@ -6,6 +6,6 @@
 
 #### TODO: | Delete/uninstall app sounds | DND off sound | Battery icons | boot sound/animation
 
-##### Sounds come from the tablet device appearing in the latest Zelda games, I have not even played them, just liked the "Sheikah Slate" sounds.
+##### Sounds come from the tablet device featured in the latest Zelda games, I have not even played them, just liked the sounds.
 
 ![That's a "Sheikah Slate"](https://i.imgur.com/nRMpuYA.png)
